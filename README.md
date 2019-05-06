@@ -1,7 +1,7 @@
 # Leanring-zk-SNARKs
 
 
-###Understanding [Pinocchio protocol](https://eprint.iacr.org/2013/279.pdf)
+### Understanding [Pinocchio protocol](https://eprint.iacr.org/2013/279.pdf)
 
 1. understanding R1CS & QAP
     + [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
@@ -12,11 +12,11 @@
     + [Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture](https://eprint.iacr.org/2013/879.pdf) **appendix B **
     + (recommend!): [zk-SNARKs explain](https://blog.coinfabrik.com/wp-content/uploads/2017/03/zkSNARK-explained_basic_principles.pdf)
 
-###Understanding [GROTH16 protocol](https://eprint.iacr.org/2016/260.pdf)
+### Understanding [GROTH16 protocol](https://eprint.iacr.org/2016/260.pdf)
 
 
 
-### supplementary materials
+### Supplementary materials
 + [github awesome zkp](https://github.com/gluk64/awesome-zero-knowledge-proofs)
 + [zkp science](https://zkp.science/)
 
